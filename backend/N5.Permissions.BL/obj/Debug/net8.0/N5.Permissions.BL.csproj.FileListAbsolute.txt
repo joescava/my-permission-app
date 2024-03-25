@@ -1,0 +1,15 @@
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\bin\Debug\net8.0\N5.Permissions.BL.deps.json
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\bin\Debug\net8.0\N5.Permissions.BL.dll
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\bin\Debug\net8.0\N5.Permissions.BL.pdb
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\bin\Debug\net8.0\N5.Permissions.DAL.dll
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\bin\Debug\net8.0\N5.Permissions.DAL.pdb
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.csproj.AssemblyReference.cache
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.AssemblyInfoInputs.cache
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.AssemblyInfo.cs
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.csproj.CoreCompileInputs.cache
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permi.DCFEED36.Up2Date
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.dll
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\refint\N5.Permissions.BL.dll
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\N5.Permissions.BL.pdb
+C:\Users\johan.cante.BABEL-SI\source\repos\N5.PermissionsSolutions\N5.Permissions.BL\obj\Debug\net8.0\ref\N5.Permissions.BL.dll
